@@ -1,0 +1,1 @@
+In this project we will recreate the Google homepage using html and css.
