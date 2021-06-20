@@ -10,15 +10,18 @@ body {
     color: #222;
 }
 
-/*nav styles*/
-.nav {
-    display: inline-flex;
-    align-items: center;
-}
-
-.nav a {
+/*header nav styles*/
+header, nav, ul, li{
+    display: flex;
+    flex-direction: row;
 
 }
+
 /*search styles*/
+main {
+    position: relative;
+    left: 50%;
+    top: 50%;
 
+}
 /*footer styles*/
